@@ -1,4 +1,4 @@
-# Australian Beer Production Forecasting
+# Forecasting Australian Beer Production
 
 #### Contributors
 - Andy Tran
