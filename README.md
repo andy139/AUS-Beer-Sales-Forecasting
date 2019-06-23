@@ -2,6 +2,13 @@
 
 This is a time series analysis of quarterly production of beer in Australia. In this project we look at historical beer production data between March 1956 and June 1992 to make accurate predictions utilizing R Studio and built in functions.
 
+### Contributors
+- Andy Tran
+- Lilian Li
+- Danny Baerman
+- Vela Hou
+- Janelle Samansky
+
 ### Methodology
 - Box-Cox Transformation
 - Trend and Seasonal Differencing
@@ -16,12 +23,7 @@ This is a time series analysis of quarterly production of beer in Australia. In 
 
 Click here for full report : [Australian Beer Production](https://github.com/andy139/Forecasting-Australian-Beer-Production/blob/master/Australian-Beer-Sales-TS.pdf "Time Series Final Project")
 
-### Contributors
-- Andy Tran
-- Lilian Li
-- Danny Baerman
-- Vela Hou
-- Janelle Samansky
+
 
 
 
