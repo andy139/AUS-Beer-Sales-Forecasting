@@ -1,20 +1,28 @@
 # Forecasting Australian Beer Production
 
-#### Contributors
+This is a time series analysis of quarterly production of beer in Australia. In this project we look at historical beer production data between March 1956 and June 1992 to make accurate predictions utilizing R Studio and built in functions.
+
+### Methodology
+- Box-Cox Transformation
+- Trend and Seasonal Differencing
+- SARIMA model
+- Normality Test
+- Forecasting
+
+### Predictions 
+<p align = "center">
+<img src = "https://i.gyazo.com/59993485399a8a0242ea45ee9f400704.png" width ="80%" length = "80%">
+</p>
+
+Click here for full report : [Australian Beer Production](https://github.com/andy139/Forecasting-Australian-Beer-Production/blob/master/Australian-Beer-Sales-TS.pdf "Time Series Final Project")
+
+### Contributors
 - Andy Tran
 - Lilian Li
 - Danny Baerman
 - Vela Hou
 - Janelle Samansky
 
-The purpose of this project was analyze the quarterly production of beer in Australia between March of 1956 and June 1992 in order to forecast the projections for the third quarter of year 1993 through second quarter of 1994 by utilizing time series functions.  Since the data is seasonal and demonstrated a positive trend, it needed to be transformed and differenced in order to use the lowest AICs and BICs to create an accurate model.  The model was then checked by running diagnostic checking to finalize the model which was then used in forecasting. Our predicted values are within a 95% confidence interval showcasing that our forecasted model is relatively accurate.  Also, when we compare our predicted values to the actual observed values, they appear reasonably close, again proving the point that our selected model is fairly accurate when compared to the original dataset.  
 
-
-## Methodology
-- Box-Cox Transformation
-- Trend and Seasonal Differencing
-- SARIMA model
-- Normality Test
-- Forecasting
 
 
